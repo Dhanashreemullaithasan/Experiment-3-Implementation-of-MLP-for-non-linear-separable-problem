@@ -39,7 +39,7 @@ Step 3: Repeat the  iteration  until the losses become constant and
              (v)   Append the losses in a list
 Step 4 : Test for the XOR patterns.
 
-** PROGRAM** 
+## PROGRAM :
 
 ```
 import numpy as np
@@ -105,9 +105,10 @@ predict(w1,w2,test)
 test=np.array([[0],[0]])
 predict(w1,w2,test)
 ```
- **OUTPUT**
+## OUTPUT :
+
  ![Screenshot (1)](https://github.com/Dhanashreemullaithasan/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/94165415/e6de2bed-0203-46d2-92d0-fa4ed99937b5)
  
 ![Screenshot (2)](https://github.com/Dhanashreemullaithasan/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/94165415/7e0282b2-428a-4f0c-9240-6ff16285ec92)
-** RESULT**
+## RESULT :
 Thus we have implemented a perceptron for classification using Python.
